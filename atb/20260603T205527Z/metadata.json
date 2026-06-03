@@ -1,0 +1,35 @@
+{
+  "name": "AI Toll Booth",
+  "symbol": "ATB",
+  "description": "Unofficial tech meme about AI subscriptions, quotas, and pricing toll roads. Parody/experimental internet culture. No affiliation. No financial promises.",
+  "image": "https://raw.githubusercontent.com/chadbot0x/trendforge-token-metadata/2142bbecb0b1fc8f04e0d8fc8a37e4bb0dd6c171/atb/20260603T205527Z/ai-toll-booth-atb-readable-v2.png",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/chadbot0x/trendforge-token-metadata/2142bbecb0b1fc8f04e0d8fc8a37e4bb0dd6c171/atb/20260603T205527Z/ai-toll-booth-atb-readable-v2.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "trendforge": {
+    "trend_name": "AI tool pricing limits turning AI into a toll road",
+    "image_style": "real-ai-generated-readable-overlay-v2",
+    "launch_copy": "AI used to be magic. Now there is a toll booth.\n\nAI Toll Booth ($ATB). Unofficial meme. No affiliation. No financial promises.",
+    "local_preview_only": true,
+    "real_image_provider": "openai-codex",
+    "real_image_model": "gpt-image-2-medium",
+    "real_image_base_sha256": "b4c50266398c71f05f30f05698b56f3b773900742b1737b089166850489d583b",
+    "real_image_composite_sha256": "f1afb4f7eec99ad0261eb3045ad4fcc3316001bc70f84f584795430b5b4a9d4f",
+    "real_image_prompt": "Square 1024x1024 premium meme coin cover art, central metaphor only, NO TEXT, NO LETTERS, NO NUMBERS, NO WORDS anywhere. A simple funny scene: a bright AI robot toll booth blocks a road made of chat bubbles; one confused person and one small robot are stopped at the gate. Make the toll booth and road instantly recognizable, cartoon-realistic, bold shapes, high contrast, not too many details. Leave clean darker empty space across the top 22 percent and bottom 22 percent for later typography overlay. No brand logos, no company marks, no celebrity likenesses, no financial promises.",
+    "typography_overlay": {
+      "method": "Pillow exact text overlay",
+      "font": "/System/Library/Fonts/Supplemental/Impact.ttf",
+      "top_text": "AI TOLL BOOTH",
+      "ticker_text": "$ATB",
+      "why": "AI image generators render text unreliably; exact overlay keeps human/thumbnail readability."
+    },
+    "metadata_host": "github_raw_fallback",
+    "public_image_url": "https://raw.githubusercontent.com/chadbot0x/trendforge-token-metadata/2142bbecb0b1fc8f04e0d8fc8a37e4bb0dd6c171/atb/20260603T205527Z/ai-toll-booth-atb-readable-v2.png"
+  }
+}
